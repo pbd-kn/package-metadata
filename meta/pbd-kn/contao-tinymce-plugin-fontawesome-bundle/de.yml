@@ -1,6 +1,7 @@
 de:
     title: Contao Tinymce fontawesome bundle
     description: >
-        Stellt in Tinymce fontawesome Free Version 5 und 6 zur Verfügung 
+        Stellt in Tinymce fontawesome Free Version 5 und 6 zur Verfügung. Die Configuration kann in config.xml vergenommen werden.
+        Im Frontend werden die entsprechenden Icons geladen. 
     keywords:
         - Tinymce
