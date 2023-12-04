@@ -1,7 +1,7 @@
 en:
     title: Contao Extassets Bundle
     description: >
-        External CSS & JS assets groups with bootstrap support
+        Managing external CSS and JS asset groups with Bootstrap
     keywords:
         - css
         - js
